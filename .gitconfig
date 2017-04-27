@@ -1,0 +1,8 @@
+[color]
+	ui = auto
+
+[user]
+	email = real.lalong13@gmail.com
+	name = Stephen Long
+[push]
+	default = matching
